@@ -101,6 +101,7 @@ footer {
 .panel-one h3 {
     margin-bottom: 10px;
     font-size: 15px;
+    text-align:center;
 }
 
 .panel-one p {
@@ -122,6 +123,7 @@ footer {
 .panel-two h3 {
     margin-bottom: 10px;
     font-size: 15px;
+    text-align:center;
 }
 
 .panel-two {
