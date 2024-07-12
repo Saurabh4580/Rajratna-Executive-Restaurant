@@ -35,7 +35,7 @@
 main {
     background: rgba(0, 0, 0, 0.7)url(favour-otunji-dD7xFyDzES4-unsplash.jpg) center center fixed;
     background-size: cover;
-    height: 450px;
+    height: 650px;
     width: 100%;
     background-repeat: no-repeat;
     background-blend-mode: darken;
@@ -152,7 +152,15 @@ footer {
 
 /* PANEL THREE */
 
-.panel-two {
+.panel-three h3 {
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+.panel-three svg{
+    margin-top: 10px;
+}
+
+.panel-three {
     height: 100%;
     width: 100%;
     text-align: center;
